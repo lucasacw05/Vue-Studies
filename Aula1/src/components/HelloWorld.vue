@@ -13,7 +13,7 @@ defineProps<{
       <a target="_blank" href="https://vuejs.org/">Vue 3</a>. What's next?
     </h3>
   </div>
-</template>
+</template><link rel="stylesheet" href="style.css">
 
 <style scoped>
 h1 {
