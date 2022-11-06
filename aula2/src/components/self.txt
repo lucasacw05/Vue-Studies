@@ -1,0 +1,5 @@
+Ideia do self.io.
+
+O produto é uma dashboard de você mesmo.
+Utilizando experiência de usuário focada em interfaces gráficas, 
+O sistema funciona como uma dashboard que se conecta com diversas APIs que concentram informação da sua vida com o propósito de trazer clareza  de Health, do iOS, Android,
